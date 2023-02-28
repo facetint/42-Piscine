@@ -55,27 +55,27 @@ void	ft_swap(char **a, char **b)
 
 int	main(int ac, char **av)
 {
-	int	x;
-	int	y;
+	int	i;
+	int	j;
 
-	x = 1;
-	while (x < ac - 1)
+	i = 1;
+	while (i < ac - 1)
 	{
-		y = 1;
-		while (y < ac - 1)
+		j = 1;
+		while (j < ac - 1)
 		{
-			if (ft_strcmp(av[y], av[y + 1]) > 0)
-				ft_swap(&av[y], &av[y + 1]);
-			y++;
+			if (ft_strcmp(av[j], av[j + 1]) > 0)
+				ft_swap(&av[j], &av[j + 1]);
+			j++;
 		}
-		x++;
+		i++;
 	}
-	y = 1;
-	while (y < ac)
+	j = 1;
+	while (j < ac)
 	{
-		ft_putstr(av[y]);
+		ft_putstr(av[j]);
 		ft_putchar('\n');
-		y++;
+		j++;
 	}
 	return (0);
 }
