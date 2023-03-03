@@ -12,9 +12,9 @@
 
 void	ft_ultimate_div_mod(int *a, int *b)
 {
-	int	x;
+	int	tmp;
 
-	x = *a;
+	tmp = *a;
 	*a = *a / *b;
-	*b = x % *b;
+	*b = tmp % *b;
 }
