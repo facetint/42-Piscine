@@ -12,25 +12,25 @@
 
 void	ft_swap(int	*x, int	*y)
 {
-	int	swap;
+	int	tmp;
 
-	swap = *x;
+	tmp = *x;
 	*x = *y;
 	*y = swap;
 }
 
 void	ft_sort_int_tab(int *tab, int size)
 {
-	int	counter;
+	int	i;
 
 	while (size >= 0)
 	{
-		counter = 0;
-		while (counter < (size -1))
+		i = 0;
+		while (i < (size -1))
 		{
-			if (tab[counter] > tab[counter + 1])
-				ft_swap (&tab[counter], &tab[counter +1]);
-			counter++;
+			if (tab[i] > tab[i + 1])
+				ft_swap (&tab[i], &tab[i +1]);
+			i++;
 		}
 		size--;
 	}
