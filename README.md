@@ -7,7 +7,7 @@
 | EXAM00  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/2958862" alt="facetint's 42 C Piscine Exam 00 Score" /></a>
 | EXAM01  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/2977058" alt="facetint's 42 C Piscine Exam 01 Score" /></a>
 | EXAM02  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/2990710" alt="facetint's 42 C Piscine Exam 02 Score" /></a>
-| FİNALLY EXAM | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/3003004" alt="facetint's 42 C Piscine Final Exam Score" /></a>
+| EXAM03 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/3003004" alt="facetint's 42 C Piscine Final Exam Score" /></a>
 | Shell00 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/2953752" alt="facetint's 42 C Piscine Shell 00 Score" /></a>
 | Shell01 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/2977449" alt="facetint's 42 C Piscine Shell 01 Score" /></a>
 | C00     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkdis0ws002108mhj2qc7hkl/project/2958234" alt="facetint's 42 C Piscine C 00 Score" /></a>
